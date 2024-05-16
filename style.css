@@ -1,0 +1,17 @@
+  body
+  {
+    color: white;
+    /*Añadir color de fondo*/
+    background: pink;
+  }
+  .heading
+  {
+    width: 80%;
+    font-size: 22px;
+  }
+
+  .name_of_objects, #result_object_name  , #result_object_accuracy
+  {
+    /*Personalizar color de texto*/
+    color: yellow;
+  }
